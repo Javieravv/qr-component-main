@@ -1,0 +1,20 @@
+// Estilos generales para el proyecto
+
+// Fuentes
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+$font-family: 'Outfit', sans-serif;
+$font-size-paragraph: 15px;
+$font-400: 400;
+$font-700: 700;
+
+// Colores
+$color-White: hsl(0, 0%, 100%);
+$color-Light-gray: hsl(212, 45%, 89%);
+$color-Grayish-blue: hsl(220, 15%, 55%);
+$color-Dark-blue: hsl(218, 44%, 22%);
+
+// Section main
+$width-section-main: 300px;
+$height-section-main: 480px;
+$borderradius-main: 16px;
+$padding-section-main: 25px;
